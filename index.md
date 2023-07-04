@@ -15,6 +15,8 @@
 ---
 [Academic Quotes](/quotes.md)
 
+---
+[Why is this class useful?](/useful.md)
 
 
 ---
