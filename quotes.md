@@ -1,5 +1,7 @@
 ## Academic Documents
 
+This may prove useful in the future! Please send me good quotes (including your own's) if you have it.
+
 It's like if you want to be a good pianist,
 you have to do a lot of scales and a lot of practice,
 and a lot of that is kind of boring, it's work.
