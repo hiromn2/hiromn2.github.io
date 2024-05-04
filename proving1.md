@@ -1,6 +1,6 @@
 ## A guide on Mathematical Proofs
 
-**Project description:** Quick tips on how to make the most out of your time in your first trial of proving things. If you have any suggestions, please send me an email.
+**Project description:** Quick tips on how to make the most out of your time in your first trial of proving things. This was written to help the students I TAed while in my Masters at ITAM. If you have any suggestions, please send me an email! It is not a paternalistic set of advices, but a gathering of useful ideas that helped myself when needed.
 
 #### 1. Have a handy collection of definitions and (maybe) the most important theorems. When facing a question that you don’t know how to start, start simply by stating the definitions and theorems.
 #### 2. Divide by cases! It works a lot!
