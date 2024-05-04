@@ -14,8 +14,9 @@
 ---
 
 ### Statistics
+1. Mathematical Statistics/Inference: this is how we become adults in statistics 
 
 
 ### Programming
-1. Algorithms: 
+1. Algorithms: definitely a must for anyone's arsenal. Developing the algorithmic muscle is helpful for everything and there is no alternative except being fully immersed in a harsh course like this one. Data Structures also help a lot.
 
