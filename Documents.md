@@ -3,4 +3,4 @@ Put documents here:
 
 [CV](/cv.pdf)
 
-[Joker](/joker.pdf)
+[Summer Paper](/ML vs DT.pdf)
