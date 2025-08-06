@@ -1,22 +1,13 @@
 # Theory
 
-1. a
-2. b
-3. c
-4. d
-5. e
-6. f
-7. g
-8. h
-9. i
-10. j
-11. k
-12. l
-13. m
-14. n
-15. o
-16. p
-17. q
-18. r
-19. s
-20. t
+1. Time-consistency 
+2. Markov-Decision Processes
+3. Backward Induction
+4. Incomplete Preferences
+5. Exploration vs Exploitation
+6. Mental Accounting and Combinatorial Optimization
+7. Value Function Approximation (Reinforcement Learning)
+8. Gradient Descent 
+9. Decision under Uncertainty
+10. Equilibrium Resilience
+11. Entropy and Following Rules
