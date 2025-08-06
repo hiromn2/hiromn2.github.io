@@ -28,13 +28,16 @@ Recently, my work has been about using Case-Based Decision Theory and VC-dimensi
 [How to learn languages?](/languages.md)
 
 ---
-[Academic Quotes](/quotes.md)
-
----
 [Why is this class useful?](/useful.md)
 
 
 ---
+
+[Life Lessons from Theory](/life_lessons.md)
+
+
+---
+
 [Documents](/Documents.md)
 
 
