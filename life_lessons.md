@@ -1,4 +1,4 @@
-# Theory
+# Life Lessons from Theory
 
 1. Time-consistency: Postponing is delivering more pain to the next self. Time-consistency is just respect to your future self. You are doing Game Theory with the future, and there is no reason to deviate.
 2. Markov-Decision Processes + Sunk-cost Fallacy: No problems in life you should think about time (stationary), only think about the measures that matter (consequentialism). Do not think about the past, only at the point you are standing now (Markov). It is deterministic, a clear solution. There is many ways to be optimal, but their value is the same. A plan is an action for every contingency.
