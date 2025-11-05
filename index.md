@@ -9,6 +9,7 @@ My experiences include 4 papers published into top journals using Time-Series An
 ## Research Projects
 
 [Algorithmic Game Theory x Reinforcement Learning](/Algorithmic_Game_Theory.md)
+<br> <br>
 [Decision Theory x Statistical Learning](/Decision_Theory.md)
 
 ## Guides
