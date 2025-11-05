@@ -2,7 +2,7 @@
 
 Hi! My name is Mateus Hiro Nagata. A first-principles thinker Data Scientist/Economist. My interests revolve around transforming ML and data science analysis into actions using solid economic theory. Specifically, I can translate data-driven analysis into human-interpretable insights. 
 
-Currently, I devised new Machine Learning and Reinforcement Learning algorithms and applied them to Game Theory (the analysis of strategic interaction between agents) and Decision Theory (the analysis of individual decision). Those got recognition at 
+Currently, I devised new Machine Learning and Reinforcement Learning algorithms and applied them to Game Theory (the analysis of strategic interaction between agents) and Decision Theory (the analysis of individual decision). Those new algorithms were used to create papers that were accepted at [JECCO 2025](https://jecco2025.gitlab.io/) and [Science of Decision Making Conference](https://sites.google.com/view/sdmhongkong) and can be found in my Documents section.
 
 My experiences include 4 papers published into top journals using Time-Series Analysis in Finance (and Extreme-Value Theory) and Machine Learning analysis and Predictions.  
 
