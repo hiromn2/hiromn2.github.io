@@ -1,3 +1,7 @@
+## Description
+
+Hi! My name is Mateus Hiro Nagata.
+
 ## Research Projects
 
 ### Algorithmic Game Theory x Reinforcement Learning
