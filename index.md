@@ -1,3 +1,11 @@
+## Description
+
+Hello! My name is Mateus Hiro Nagata. A first-principles data scientist and economist. I am particularly interested in using learning theory (statistical learning, machine learning, reinforcement learning) to understand game theory and decision theory. Those have direct implications in how companies might price and compete against each other, or how to negotiate in high-stakes scenarios. 
+
+My capabilities can be seen by the development of new techniques ML techniques and RL techniques that I have developed to bridge Economics and Data-driven approaches. So, my results are not only accurate and powerful, but also interpretable for the human mind.
+
+In the past I have also worked with Time-series in Finance (using Extreme-value Theory).
+
 ## Research Projects
 
 ### Algorithmic Game Theory x Reinforcement Learning
