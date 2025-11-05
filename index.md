@@ -8,18 +8,8 @@ My experiences include 4 papers published into top journals using Time-Series An
 
 ## Research Projects
 
-### Algorithmic Game Theory x Reinforcement Learning
-
-Nash equilibrium (NE), a fundamental concept in strategic interaction presupposes a difficult epistemic condition: common knowledge of rationality and of payoff (or utility) functions. However, utility is not observable in cardinal terms. Moreover, NE pressuposes an entity that recommends a strategy for both players. But if no such entity exists, how can people arrive at a stable outcome? From a player's perspective, one may never feel assured to be playing a Nash equilibrium due to ignorance of the opponent's payoff.
-
-The learning perspective in Game Theory adresses the gap. Algorithms like Experienced-Weighted Attraction and (stateless) Q-learning model suboptimal agents that iteratively refine their strategy to improve performance. Currently, I am investigating the behavior of these algorithms in relation to correlated equilibrium and the effect of noise in the payoffs.
-
-### Decision Theory x Statistical Learning
-
-Just as how human cognition inspired the creation of neural networks, I appreciate the elegance of using statistical techniques to understand the human mind - and vice versa.
-
-Recently, my work has been about using Case-Based Decision Theory and VC-dimension to voting. The central question is: Can in-sample knowledge alone determine the best (presidential) candidate in terms of populational preferences? If so, can we establish meaningful bounds for the potential error in terms of dataset size and number of candidates? Another question I am dealing with is the estimation of utility and probability weighting functions in risky decision making using a Neural Network hereby circumventing traditional parametric assumptions.
-
+[Algorithmic Game Theory x Reinforcement Learning](/Algorithmic_Game_Theory.md)
+[Decision Theory x Statistical Learning](/Decision_Theory.md)
 
 ## Guides
 
