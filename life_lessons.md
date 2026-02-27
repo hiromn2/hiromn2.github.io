@@ -11,3 +11,4 @@
 9. Decision under Uncertainty: When dealing with uncertainty in life, weight how probable each outcome is and how much utility you have on each. Act accordingly. If ambiguous, just make a generous overprecaution and choose with that in mind. In any case, you will be not embarassed (definition of rationality by Gilboa) of your choice.
 10. Equilibrium Resilience: An action (profile) is resilient if it is still a best-response even if few people still deviate. Make sure few people deviate, or make resilient plans.
 11. Entropy and Following Rules: Again on group actions. People do not follow rules as well as we wanted them to. There is "entropy" and loss of adherence. Accomodate that. If there is no oversight, then people stop doing bothersome tasks. Make sure it is an habit before you go loose on oversight.
+12. Is some stochasticity/randomness in choice optimal?
