@@ -14,9 +14,16 @@ My experiences include 4 papers published into top journals using Time-Series An
 
 ## Research
 
+**Representativity: A Possibility Theorem**  
+Mateus Hiro Nagata  
+*18th Society for Social Choice and Welfare Conference, Tokyo (2026, forthcoming)*  
+
+---
+
 **On the Comparative Performance of Machine Learning and Economic Models for Risky Decision Making**  
 Mateus Hiro Nagata  
 *SDM 2025 (Chengdu, China) · GAIMSS 2025 (Paris, France)*  
+
 ---
 
 **Outcome Selection with Algorithmic Learners**  
@@ -24,9 +31,6 @@ Mateus Hiro Nagata, Francesco Giordano
 *JECCO 2025 (UK)*  
 
 ---
-**Representativity: A Possibility Theorem**  
-Mateus Hiro Nagata  
-*18th Society for Social Choice and Welfare Conference, Tokyo (2026, forthcoming)*  
 
 
 ### Published Papers
