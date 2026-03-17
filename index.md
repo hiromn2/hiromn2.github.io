@@ -12,6 +12,17 @@ My experiences include 4 papers published into top journals using Time-Series An
 <br> <br>
 [Decision Theory x Statistical Learning](/Decision_Theory.md)
 
+## Research
+
+-- A
+-- A
+-- A
+-- A
+-- A
+-- A
+-- A
+-- A
+
 ## Guides
 
 ---
