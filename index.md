@@ -38,7 +38,6 @@ Mateus Hiro Nagata, Francesco Giordano
 **Retrodicting with the Truncated Lévy Flight**  
 Raul Matsushita, P. Brom, Mateus Hiro Nagata, Sergio da Silva  
 *Communications in Nonlinear Science and Numerical Simulation, 116 (2023)*  
-[Paper](#)
 
 ---
 
