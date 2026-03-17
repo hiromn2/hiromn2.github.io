@@ -14,13 +14,46 @@ My experiences include 4 papers published into top journals using Time-Series An
 
 ## Research
 
-- A
-- B
-- C
-- D
-- E
-- F
-- G
+**On the Comparative Performance of Machine Learning and Economic Models for Risky Decision Making**  
+Mateus Hiro Nagata  
+*SDM 2025 (Chengdu, China) · GAIMSS 2025 (Paris, France)*  
+---
+
+**Outcome Selection with Algorithmic Learners**  
+Mateus Hiro Nagata, Francesco Giordano  
+*JECCO 2025 (UK)*  
+
+---
+**Representativity: A Possibility Theorem**  
+Mateus Hiro Nagata  
+*18th Society for Social Choice and Welfare Conference, Tokyo (2026, forthcoming)*  
+
+
+### Published Papers
+
+**Retrodicting with the Truncated Lévy Flight**  
+Raul Matsushita, P. Brom, Mateus Hiro Nagata, Sergio da Silva  
+*Communications in Nonlinear Science and Numerical Simulation, 116 (2023)*  
+[Paper](#)
+
+---
+
+**The Duration of Historical Pandemics**  
+Raul Matsushita, Mateus Hiro Nagata, Sergio da Silva  
+*Communications in Nonlinear Science and Numerical Simulation, 106 (2022)*  
+
+---
+
+**Bypassing the Truncation Problem of Truncated Lévy Flights**  
+Raul Matsushita, Sergio da Silva, R. da Fonseca, Mateus Hiro Nagata  
+*Physica A, 559 (2020)*  
+
+---
+
+**An Empirical Overview of Nonlinearity and Overfitting in Machine Learning Using COVID-19 Data**  
+Yuan Peng, Mateus Hiro Nagata  
+*Chaos, Solitons & Fractals, 139 (2020)* · **150+ citations**  
+
 
 ## Guides
 
