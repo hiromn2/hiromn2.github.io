@@ -13,6 +13,6 @@ Put documents here:
 
 [Slides - Outcome Selection with Algorithmic Learners](/Learning_Outcome_selection___Beamer.pdf)
 
-[Slides - Representativeness](/SSCW_Slides.pdf)
+[Slides - Representativeness](/Slides_SSCW.pdf)
 
 
