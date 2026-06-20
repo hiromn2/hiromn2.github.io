@@ -60,7 +60,7 @@ Raul Matsushita, Sergio da Silva, R. da Fonseca, Mateus Hiro Nagata
 ---
 
 [**An Empirical Overview of Nonlinearity and Overfitting in Machine Learning Using COVID-19 Data** ](https://www.sciencedirect.com/science/article/pii/S0960077920304525)
-Yuan Peng, Mateus Hiro Nagata  
+Yaohao Peng, Mateus Hiro Nagata  
 *Chaos, Solitons & Fractals, 139 (2020)* · **150+ citations**  
 
 
